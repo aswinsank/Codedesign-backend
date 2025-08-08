@@ -1,7 +1,27 @@
-This repository contains the backend implementation for a B2B SaaS dashboard. The service provides productivity insights based on logged team activities, offering various summary and detailed reports. The backend is built with Node.js and Express, using an in-memory data store for simplicity.
-Follow These steps for Implementation
+# SaaS Backend - B2B Productivity Dashboard
 
-git clone https://github.com/your-username/Codedesign-backend.git
+This repository contains the backend implementation for a B2B SaaS dashboard that provides productivity insights based on logged team activities. The service offers various summary and detailed reports to help teams analyze their performance.
+
+## Tech Stack
+
+- **Backend**: Node.js with Express
+- **Data Storage**: In-memory data store (for simplicity in development)
+
+## Features
+
+- Team activity logging
+- Productivity insights and analytics
+- Summary reports
+- Detailed activity breakdowns
+- (Add more features as applicable)
+
+## Installation
+
+Follow these steps to set up the project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/aswin_sank/Codedesign-backend.git
 
 cd saas-backend
 
@@ -24,6 +44,7 @@ Test using postman :
 <img width="819" height="480" alt="image" src="https://github.com/user-attachments/assets/78634b5b-82f6-4da9-999f-a10b92231dcc" />
 
 2.b). Invalid Data: 
+
 <img width="815" height="255" alt="image" src="https://github.com/user-attachments/assets/4bd5f426-53f6-430c-ab62-0a243bc581f5" />
 
 3.a). GET /report/member/:memberId 
