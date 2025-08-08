@@ -32,13 +32,13 @@ node index.js
 
 The server will start and run on http://localhost:3000.
 
+<img width="345" height="41" alt="image" src="https://github.com/user-attachments/assets/eb28c08c-ae57-4a3f-9182-450c10128716" />
+
 
 Test using postman : 
 1.a). GET /report/overview:
-<img width="345" height="41" alt="image" src="https://github.com/user-attachments/assets/eb28c08c-ae57-4a3f-9182-450c10128716" />
-
-1.b). Overview with Date Filter: 
 <img width="820" height="353" alt="image" src="https://github.com/user-attachments/assets/c6b9965b-a269-4baa-8a15-1d85600ec83e" />
+
 
 2.a). GET /report/company/:companyId
 <img width="819" height="480" alt="image" src="https://github.com/user-attachments/assets/78634b5b-82f6-4da9-999f-a10b92231dcc" />
