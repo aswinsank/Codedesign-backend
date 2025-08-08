@@ -17,7 +17,6 @@ This repository contains the backend implementation for a B2B SaaS dashboard tha
 
 ## Installation
 
-```bash
 # 1. Clone the repository
 git clone https://github.com/aswin_sank/Codedesign-backend.git
 
