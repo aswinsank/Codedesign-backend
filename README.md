@@ -24,7 +24,7 @@ git clone https://github.com/aswin_sank/Codedesign-backend.git
 
 # 2. Move to project directory
 ```
-cd saas-backend
+cd Codedesign-backend
 ```
 
 # 3. Install dependencies
