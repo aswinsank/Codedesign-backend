@@ -18,17 +18,24 @@ This repository contains the backend implementation for a B2B SaaS dashboard tha
 ## Installation
 
 # 1. Clone the repository
+```
 git clone https://github.com/aswin_sank/Codedesign-backend.git
+```
 
 # 2. Move to project directory
+```
 cd saas-backend
+```
 
 # 3. Install dependencies
+```
 npm install
+```
 
 # 4. Start the server
+```
 node index.js
-
+```
 
 The server will start and run on http://localhost:3000.
 
